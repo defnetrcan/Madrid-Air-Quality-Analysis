@@ -18,7 +18,7 @@ Install all dependencies with:
 pip install -r requirements.txt
 ```
 
-`pyarrow` is optional but recommended. It speeds up the Task 8 partitioning step significantly:
+`pyarrow` is optional:
 
 ```bash
 pip install pyarrow
