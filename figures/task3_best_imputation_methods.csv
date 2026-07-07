@@ -1,5 +1,0 @@
-magnitude_name,best_method
-NO2,knn
-O3,knn
-<PM10,knn
-SO2,rolling_24h_past
